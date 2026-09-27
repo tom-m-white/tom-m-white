@@ -3,8 +3,6 @@
 - 💬 Ask me about chess engines
 - 📫 How to reach me: whitet1457@gmail.com
 - 😄 Pronouns: he/him
-  
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=tom-m-white)
 
 <!--
 **tom-m-white/tom-m-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
